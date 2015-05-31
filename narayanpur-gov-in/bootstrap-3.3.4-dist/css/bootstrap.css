@@ -4862,13 +4862,17 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  /*padding: 30px 15px;
+	/*height: 500px;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 background-image: url('http://narayanpur.gov.in/images/banner3.jpg');
+	 background-repeat: no-repeat;*/
+  padding: 30px 15px;
   height: 500px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;*/
+  background-color: #eee;
   background-image: url('http://narayanpur.gov.in/images/banner3.jpg');
-  height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
 }
