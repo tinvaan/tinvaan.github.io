@@ -1,2 +1,2 @@
-# harishnavnit.github.io
+# tinvaan.github.io
 My personal webspace linking to my wordpress blog
