@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harish Navnit</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Harish Navnit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Sat, 19 Sep 2020 18:05:52 +0530</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 02 Aug 2021 12:54:47 +0530</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>
+&lt;object data=&#34;/resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;900px&#34; height=&#34;900px&#34;&gt;
+    &lt;embed src=&#34;http://localhost:1313/resume.pdf&#34;&gt;
+        &lt;p&gt;
+            This browser does not support PDFs.
+            Please download the PDF to view it: &lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;Download PDF&lt;/a&gt;.
+        &lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Year #7</title>
+      <link>http://localhost:1313/personal/number-7/</link>
+      <pubDate>Sun, 30 May 2021 18:10:53 +0530</pubDate>
+      
+      <guid>http://localhost:1313/personal/number-7/</guid>
+      <description>&lt;p&gt;I know a football team jersey, for someone who isn&amp;rsquo;t an ardent follower of the sport, is an underwhelming gift to receive. Not like you were seeking or indeed expecting a gift to begin with anyway.&lt;/p&gt;
+&lt;p&gt;But ofcourse, the 5th day of June is a special one for me. Six years ago, my life changed forever.&lt;/p&gt;
+&lt;p&gt;As we enter the seventh year of having known one another, I couldn&amp;rsquo;t simply let it pass by without acknowledging the importance and gratitude I feel towards you.&lt;/p&gt;
+&lt;p&gt;Though underwhelming to you, the Manchester United #7 shirt is as iconic a symbol as there is. It&amp;rsquo;s a hallmark of excellence and greatness.&lt;/p&gt;
+&lt;p&gt;I’m inspired by your endeavour towards excellence. I’m certain that you’re destined for greatness and I hope to do whatever is within my capacity to help you on this journey.&lt;/p&gt;
+&lt;p&gt;Thanks for everything Appu. This means more.&lt;/p&gt;
+&lt;p&gt;&amp;ndash; &amp;#x2764;&amp;#xfe0f;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conference &amp; Summits</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Tue, 22 Sep 2020 20:13:47 +0530</pubDate>
+      
+      <guid>http://localhost:1313/talks/</guid>
+      <description>&lt;h3 id=&#34;scroll--presentations&#34;&gt;&amp;#x1f4dc;  Presentations&lt;/h3&gt;
+&lt;h4 id=&#34;convergent-applications-using-kirigami-ui-slides&#34;&gt;Convergent applications using Kirigami UI [&lt;a href=&#34;http://localhost:1313/documents/kirigami-ui.pdf&#34;&gt;slides&lt;/a&gt;]&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;#x1f3e2; &lt;a href=&#34;https://2018.fossasia.org&#34;&gt;FOSSASIA summit, 2018&lt;/a&gt;, Lifelong learning institute, Singapore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Df9hFzZl7Tc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;modern-day-makefile-generators-slides&#34;&gt;Modern day Makefile generators [&lt;a href=&#34;http://localhost:1313/documents/kde-build-system.pdf&#34;&gt;slides&lt;/a&gt;]&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;#x1f3e2; &lt;a href=&#34;https://dot.kde.org/2017/01/12/confkdein-2017&#34;&gt;conf.kde.in, 2017&lt;/a&gt;, IIT Guwahati, India&lt;/li&gt;
+&lt;li&gt;&amp;#x1f3e2; &lt;a href=&#34;https://india2017.wikitolearn.events&#34;&gt;WikiToLearn conf, 2017&lt;/a&gt;, LNMIIT, Jaipur, India&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tSN318rT-zs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;beers--sprints--meetups&#34;&gt;&amp;#x1f37b;  Sprints &amp;amp; Meetups&lt;/h3&gt;
+&lt;h4 id=&#34;kde-developers-sprint&#34;&gt;KDE developers sprint&lt;/h4&gt;
+&lt;figure&gt;&lt;a href=&#34;https://tinvaan.wordpress.com/2016/03/17/kde-sprint-geneva-2016&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://i0.wp.com/vizzzion.org/blog/wp-content/uploads/2016/03/plasma-cernbanner-400x49.png&#34;
+    alt=&#34;KDE Sprint at CERN - Plasma team gets physical&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;
+      &lt;p&gt;KDE Sprint at CERN - Plasma team gets physical&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;a href=&#34;https://tinvaan.wordpress.com/tag/randa/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://randa-meetings.ch/wp-content/uploads/2012/11/cropped-web2.png&#34;
+    alt=&#34;KDE Randa Meetings - Bringing KDE applications to new platforms&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;
+      &lt;p&gt;KDE Randa Meetings - Bringing KDE applications to new platforms&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Testimonials</title>
+      <link>http://localhost:1313/testimonials/</link>
+      <pubDate>Tue, 01 Sep 2020 17:59:10 +0530</pubDate>
+      
+      <guid>http://localhost:1313/testimonials/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Harish is self motivated and a good communicator. It was a pleasure working with him.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;%22https://www.linkedin.com/in/ruthhaller%22&#34;&gt;Ruth Haller&lt;/a&gt;, Co-Founder / CEO Anapi&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Harish is always eager to learn, hardworking and trustworthy. I&amp;rsquo;ve enjoyed working together with him.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;http://kennyshen.dev&#34;&gt;Kenny Shen&lt;/a&gt;, Co-Founder / CTO Anapi&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Harish&amp;rsquo;s main strength is his unending curiosity and relentless pursuit to learn new topics, even beyond his areas of expertise. He is definitely one of the brightest individuals I have mentored so far.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.linkedin.com/in/sai-vikneshwar-9857b32a/&#34;&gt;Sai Vikneshwar, PhD&lt;/a&gt; , Software Engineer, Amazon&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Harish is a great guy to work with. We worked on challenging problems during our time at Spectral Insights. He was always very professional in his approach.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;His technical knowledge and programming acumen contributed towards the timely delivery of features. His contribution towards open source community is impressive as well.  I would love the opportunity to work with him again.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.linkedin.com/in/rajnikhil&#34;&gt;Nikhil Raj&lt;/a&gt;, Software Engineer, Microsoft&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Harish was my co-worker and mentor when I was at Anapi. This was my first software engineering role. He is easy to work with and very patient with new engineers.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;He provided me with valuable guidance and feedback with regards to software engineering skills, placing emphasis on solving problems and keeping things simple.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;It was delightful to work with him.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&amp;ndash; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://www.linkedin.com/in/noel-kwan-17484b119/&#34;&gt;Noel Kwan&lt;/a&gt;, Software Engineer, Holmusk&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/work/</link>
+      <pubDate>Tue, 01 Sep 2020 17:58:50 +0530</pubDate>
+      
+      <guid>http://localhost:1313/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 01 Sep 2020 17:58:46 +0530</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Tue, 01 Sep 2020 17:57:44 +0530</pubDate>
+      
+      <guid>http://localhost:1313/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
