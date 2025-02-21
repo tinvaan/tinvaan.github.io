@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Harish Navnit</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://tinvaan.github.io/series/</link>
     <description>Recent content in Series on Harish Navnit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2025</copyright>
     
-	<atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tinvaan.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
