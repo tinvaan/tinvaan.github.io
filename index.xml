@@ -13,6 +13,25 @@
     
     
     <item>
+      <title>CV</title>
+      <link>https://tinvaan.github.io/cv/</link>
+      <pubDate>Sat, 22 Feb 2025 22:25:21 +0800</pubDate>
+      
+      <guid>https://tinvaan.github.io/cv/</guid>
+      <description>
+&lt;object data=&#34;/cv.pdf&#34; type=&#34;application/pdf&#34; width=&#34;900px&#34; height=&#34;900px&#34;&gt;
+    &lt;embed src=&#34;https://tinvaan.github.io/cv.pdf&#34;&gt;
+        &lt;p&gt;
+            This browser does not support PDFs.
+            Please download the PDF to view it: &lt;a href=&#34;https://tinvaan.github.io/cv.pdf&#34;&gt;Download PDF&lt;/a&gt;.
+        &lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>https://tinvaan.github.io/resume/</link>
       <pubDate>Mon, 02 Aug 2021 12:54:47 +0530</pubDate>
@@ -142,7 +161,72 @@
       <pubDate>Tue, 01 Sep 2020 17:58:46 +0530</pubDate>
       
       <guid>https://tinvaan.github.io/about/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;wave-hey&#34;&gt;&amp;#x1f44b; Hey!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Harish. My work is largely centered around,&lt;/p&gt;
+&lt;h3 id=&#34;computer-software-engineering&#34;&gt;&amp;#x1f4bb; Software engineering&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m a software engineer by profession and my work experience ranges from developing cross-platform desktop applications, end to end automation workflows and building scalable API&amp;rsquo;s and backend services.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m passionate about developer productivity and love building developer tooling and automation. More recently, I&amp;rsquo;ve shifted my focus towards Cybersecurity &amp;amp; AI after completing my Master&amp;rsquo;s in 2024.&lt;/p&gt;
+&lt;p&gt;Check out some of my &lt;a href=&#34;https://github.com/tinvaan&#34; target=&#34;_blank&#34;&gt;
+    projects on Github
+&lt;/a&gt;
+ and leave any feedback you may have.&lt;/p&gt;
+&lt;h3 id=&#34;rocket-early-stage-startups&#34;&gt;&amp;#x1f680; Early stage startups&lt;/h3&gt;
+&lt;p&gt;I started out as an integration engineer at &lt;a href=&#34;https://www.linkedin.com/company/spectral-insights/&#34; target=&#34;_blank&#34;&gt;
+    Spectral Insights
+&lt;/a&gt;
+(acquired by &lt;a href=&#34;https://nference.ai&#34; target=&#34;_blank&#34;&gt;
+    nference Inc)
+&lt;/a&gt;
+ when the team was &lt;em&gt;&amp;lt; 20&lt;/em&gt; in size.&lt;/p&gt;
+&lt;p&gt;I was also the &lt;strong&gt;first engineering hire&lt;/strong&gt; at &lt;a href=&#34;https://anapi.co&#34; target=&#34;_blank&#34;&gt;
+    Anapi
+&lt;/a&gt;
+ and helped build Anapi&amp;rsquo;s digital insurance API from the ground-up during my time there. I was directly reporting to the CTO and worked closely with the product management throughout.&lt;/p&gt;
+&lt;p&gt;Lastly, I was part of the integrations team at &lt;a href=&#34;https://dialpad.com&#34; target=&#34;_blank&#34;&gt;
+    Dialpad
+&lt;/a&gt;
+ where I built strategic integrations to help expand Dialpad&amp;rsquo;s &lt;a href=&#34;https://www.dialpad.com/app-marketplace&#34; target=&#34;_blank&#34;&gt;
+    app marketplace
+&lt;/a&gt;
+. I also drove efforts to improve the developer productivity for integrations team members and external vendors by packaging SDK&amp;rsquo;s, migrating CI workflows to Github &lt;a href=&#34;https://github.com/features/actions&#34; target=&#34;_blank&#34;&gt;
+    Actions
+&lt;/a&gt;
+ and automating beta release processes via the same, to mention a few.&lt;/p&gt;
+&lt;h3 id=&#34;lock-cybersecurity&#34;&gt;&amp;#x1f512; Cybersecurity&lt;/h3&gt;
+&lt;p&gt;I graduated with a Master&amp;rsquo;s in Cybersecurity &amp;amp; Design from the &lt;a href=&#34;https://www.sutd.edu.sg/&#34; target=&#34;_blank&#34;&gt;
+    Singapore University of Technology and Design (SUTD)
+&lt;/a&gt;
+ in 2024. I&amp;rsquo;m interested in developing defensive security solutions to improve SDLC workflows and implement the &lt;a href=&#34;https://www.fortinet.com/resources/cyberglossary/shift-left-security&#34;&gt;shift-left&lt;/a&gt; paradigm.&lt;/p&gt;
+&lt;p&gt;I gained first-hand experience of building a security product at &lt;a href=&#34;http://colortokens.com&#34;&gt;ColorTokens&lt;/a&gt;, where I buil the asset discovery and real-time monitoring services for &lt;a href=&#34;https://colortokens.com/products/xshield-microsegmentation-platform&#34;&gt;XShield&lt;/a&gt;, an enterprise micro-segmentation platform.&lt;/p&gt;
+&lt;h3 id=&#34;open_file_folder-open-source-software&#34;&gt;&amp;#x1f4c2; Open source software&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve worked on projects of the &lt;a href=&#34;https://kde.org&#34; target=&#34;_blank&#34;&gt;
+    KDE community
+&lt;/a&gt;
+ such as &lt;a href=&#34;https://kde.org/applications/en/kopete&#34; target=&#34;_blank&#34;&gt;
+    Kopete
+&lt;/a&gt;
+, &lt;a href=&#34;https://community.kde.org/Plasma/Plasma_Media_Center&#34; target=&#34;_blank&#34;&gt;
+    Plasma Mediacenter
+&lt;/a&gt;
+ and &lt;a href=&#34;https://userbase.kde.org/Plasma/Public_Transport&#34; target=&#34;_blank&#34;&gt;
+    Plasma Public Transport
+&lt;/a&gt;
+ as part of the &lt;a href=&#34;https://summerofcode.withgoogle.com&#34; target=&#34;_blank&#34;&gt;
+    Google Summer of Code
+&lt;/a&gt;
+ program in 2015 &amp;amp; 2016, while some of my recent work is accessible publicly on my &lt;a href=&#34;https://github.com/tinvaan&#34; target=&#34;_blank&#34;&gt;
+    Github
+&lt;/a&gt;
+ profile.&lt;/p&gt;
+&lt;p&gt;I also organized the first ever &lt;a href=&#34;https://dot.kde.org/2015/03/04/confkdein-2015-divine&#34; target=&#34;_blank&#34;&gt;
+    conf.kde.in
+&lt;/a&gt;
+ to take place in south India in 2015, after having organized a &lt;em&gt;DebUtsav&lt;/em&gt; the previous year, which featured on the &lt;a href=&#34;https://debian.org/News/weekly/2014/14/#DebUtsav14&#34; target=&#34;_blank&#34;&gt;
+    Debian newsletter
+&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve also presented my work at various national and international conferences in the past. Head over to the &lt;a href=&#34;https://tinvaan.github.io/talks&#34;&gt;talks&lt;/a&gt; page for more.&lt;/p&gt;
+</description>
     </item>
     
     <item>
